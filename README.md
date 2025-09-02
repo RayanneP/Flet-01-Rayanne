@@ -59,6 +59,8 @@ Esse código cria uma calculadora simples usando Flet, que permite o usuário in
 
 ### ex: 10
 
+<img width="414" height="668" alt="Captura de tela 2025-09-02 120913" src="https://github.com/user-attachments/assets/8f361fee-c646-42ae-9d9a-60ef4bf7f166" />
+
 ### ex: 10a
 Esse código cria uma lista de tarefas (to-do list) interativa com Flet, onde o usuário pode adicionar, marcar como concluída, excluir e gerenciar suas tarefas.
 
