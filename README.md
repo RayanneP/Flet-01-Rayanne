@@ -32,9 +32,12 @@ Esse exemplo mostra como usar os containers básicos de layout do Flet (Row e Co
 Esse código cria um aplicativo "Criador de Perfil" usando a biblioteca Flet, onde o usuário pode preencher um formulário com nome, idade e hobby favorito, e visualizar um cartão de perfil gerado dinamicamente com base nesses dados.
 
 <img width="443" height="779" alt="Captura de tela 2025-09-01 152840" src="https://github.com/user-attachments/assets/9bd1c3d6-2b8f-42b2-b57d-4ba39468717e" />
+<img width="400" height="729" alt="Captura de tela 2025-09-02 103601" src="https://github.com/user-attachments/assets/e073754a-c26f-42b1-a4d3-0c37339d5e92" />
+
 
 ### ex: 6
 Esse código cria um contador interativo completo usando Flet, com funções para incrementar, decrementar e resetar o valor exibido.
+<img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/29ad98b9-3f08-4fa9-a203-ea30b8e8812a" />
 
 
 <img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/1de1f4fc-64f7-45b4-8f81-ce1f459affc3" />
