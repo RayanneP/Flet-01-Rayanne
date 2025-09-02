@@ -32,12 +32,13 @@ Esse exemplo mostra como usar os containers básicos de layout do Flet (Row e Co
 Esse código cria um aplicativo "Criador de Perfil" usando a biblioteca Flet, onde o usuário pode preencher um formulário com nome, idade e hobby favorito, e visualizar um cartão de perfil gerado dinamicamente com base nesses dados.
 
 <img width="443" height="779" alt="Captura de tela 2025-09-01 152840" src="https://github.com/user-attachments/assets/9bd1c3d6-2b8f-42b2-b57d-4ba39468717e" />
+<img width="400" height="729" alt="Captura de tela 2025-09-02 103601" src="https://github.com/user-attachments/assets/e073754a-c26f-42b1-a4d3-0c37339d5e92" />
+
 
 ### ex: 6
 Esse código cria um contador interativo completo usando Flet, com funções para incrementar, decrementar e resetar o valor exibido.
+<img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/29ad98b9-3f08-4fa9-a203-ea30b8e8812a" />
 
-
-<img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/1de1f4fc-64f7-45b4-8f81-ce1f459affc3" />
 
 ### ex: 7
 Esse código cria uma calculadora simples usando Flet, que permite o usuário inserir dois números, escolher uma operação (soma, subtração, multiplicação ou divisão), e ver o resultado calculado na tela.
@@ -45,7 +46,23 @@ Esse código cria uma calculadora simples usando Flet, que permite o usuário in
 <img width="452" height="713" alt="Captura de tela 2025-09-01 153104" src="https://github.com/user-attachments/assets/9c9a80a5-5ff3-415f-b116-691836b557ca" />
 
 
+### ex: 8
+
+<img width="323" height="497" alt="Captura de tela 2025-09-02 115957" src="https://github.com/user-attachments/assets/0615c4b2-f841-49eb-9a26-664f1dfb69a3" />
+
+
+### ex: 9
+
+<img width="415" height="758" alt="Captura de tela 2025-09-02 120317" src="https://github.com/user-attachments/assets/f3bc4125-fd5a-4b4a-b9c7-e719c4fab126" />
+<img width="331" height="597" alt="Captura de tela 2025-09-02 120246" src="https://github.com/user-attachments/assets/b7073b8c-040e-4066-a00e-580788205500" />
+
+
+### ex: 10
+
+<img width="414" height="668" alt="Captura de tela 2025-09-02 120913" src="https://github.com/user-attachments/assets/8f361fee-c646-42ae-9d9a-60ef4bf7f166" />
+
 ### ex: 10a
 Esse código cria uma lista de tarefas (to-do list) interativa com Flet, onde o usuário pode adicionar, marcar como concluída, excluir e gerenciar suas tarefas.
 
-<img width="436" height="494" alt="Captura de tela 2025-09-01 153332" src="https://github.com/user-attachments/assets/c50788ce-96e7-43fc-b187-2f06a308cf05" />
+<img width="477" height="708" alt="Captura de tela 2025-09-02 104119" src="https://github.com/user-attachments/assets/626076e1-4ebd-4dcb-8d9b-c1a1cc341a1d" />
+
