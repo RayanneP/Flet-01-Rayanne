@@ -40,8 +40,6 @@ Esse código cria um contador interativo completo usando Flet, com funções par
 <img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/29ad98b9-3f08-4fa9-a203-ea30b8e8812a" />
 
 
-<img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/1de1f4fc-64f7-45b4-8f81-ce1f459affc3" />
-
 ### ex: 7
 Esse código cria uma calculadora simples usando Flet, que permite o usuário inserir dois números, escolher uma operação (soma, subtração, multiplicação ou divisão), e ver o resultado calculado na tela.
 
