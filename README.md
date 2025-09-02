@@ -9,7 +9,7 @@ Foi criada uma interface visual com três mensagens de boas-vindas ao usar Flet 
 <img width="452" height="776" alt="Captura de tela 2025-09-01 152002" src="https://github.com/user-attachments/assets/542904be-fe62-4fbc-abd7-2eaa9e974563" />
 
 ### ex: 2
-Esse código cria um aplicativo com um botão interativo usando Flet. Quando o botão é clicado o texto muda para: "Parabéns! Você clicou no botão!"
+Aplicativo com um botão interativo usando Flet. Quando o botão é clicado o texto muda para: "Parabéns! Você clicou no botão!"
 
 <img width="469" height="789" alt="Captura de tela 2025-09-01 152154" src="https://github.com/user-attachments/assets/92bb0c6e-2136-4918-9696-243fe1c670c3" />
 
@@ -36,28 +36,31 @@ Esse código cria um aplicativo "Criador de Perfil" usando a biblioteca Flet, on
 
 
 ### ex: 6
-Esse código cria um contador interativo completo usando Flet, com funções para incrementar, decrementar e resetar o valor exibido.
+Contador interativo completo usando Flet, com funções para incrementar, decrementar e resetar o valor exibido.
 <img width="470" height="778" alt="Captura de tela 2025-09-01 152954" src="https://github.com/user-attachments/assets/29ad98b9-3f08-4fa9-a203-ea30b8e8812a" />
 
 
 ### ex: 7
-Esse código cria uma calculadora simples usando Flet, que permite o usuário inserir dois números, escolher uma operação (soma, subtração, multiplicação ou divisão), e ver o resultado calculado na tela.
+Calculadora simples usando Flet, que permite o usuário inserir dois números, escolher uma operação (soma, subtração, multiplicação ou divisão), e ver o resultado calculado na tela.
 
 <img width="452" height="713" alt="Captura de tela 2025-09-01 153104" src="https://github.com/user-attachments/assets/9c9a80a5-5ff3-415f-b116-691836b557ca" />
 
 
 ### ex: 8
+Painel de configuração interativo que permite modificar o estilo e as cores de um texto em tempo real, incluindo negrito, itálico, sublinhado, tamanho da fonte e cores de texto e fundo, mostrando como vincular múltiplos controles a atualizações dinâmicas da interface em Flet.
 
 <img width="323" height="497" alt="Captura de tela 2025-09-02 115957" src="https://github.com/user-attachments/assets/0615c4b2-f841-49eb-9a26-664f1dfb69a3" />
 
 
 ### ex: 9
+Zoológico Virtual interativo que exibe animais em cards coloridos com emoji, nome e descrição. O app permite filtrar por categoria, tamanho ou buscar por nome, atualizando dinamicamente os resultados e mostrando um contador de animais exibidos. Além disso, inclui um botão para limpar todos os filtros, demonstrando manipulação de listas, filtragem de dados e atualização da interface com Flet.
 
 <img width="415" height="758" alt="Captura de tela 2025-09-02 120317" src="https://github.com/user-attachments/assets/f3bc4125-fd5a-4b4a-b9c7-e719c4fab126" />
 <img width="331" height="597" alt="Captura de tela 2025-09-02 120246" src="https://github.com/user-attachments/assets/b7073b8c-040e-4066-a00e-580788205500" />
 
 
 ### ex: 10
+O aplicativo multi-página desenvolvido possui as páginas Home, Perfil, Configurações e Sobre, navegáveis por uma barra inferior fixa que destaca a página ativa. Na Home há boas-vindas e instruções, no Perfil são exibidos dados do usuário e a possibilidade de ganhar pontos, nas Configurações é possível alterar modo escuro, notificações e som, e na Sobre há informações do app.
 
 <img width="414" height="668" alt="Captura de tela 2025-09-02 120913" src="https://github.com/user-attachments/assets/8f361fee-c646-42ae-9d9a-60ef4bf7f166" />
 
