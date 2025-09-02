@@ -46,6 +46,19 @@ Esse código cria uma calculadora simples usando Flet, que permite o usuário in
 <img width="452" height="713" alt="Captura de tela 2025-09-01 153104" src="https://github.com/user-attachments/assets/9c9a80a5-5ff3-415f-b116-691836b557ca" />
 
 
+### ex: 8
+
+<img width="323" height="497" alt="Captura de tela 2025-09-02 115957" src="https://github.com/user-attachments/assets/0615c4b2-f841-49eb-9a26-664f1dfb69a3" />
+
+
+### ex: 9
+
+<img width="415" height="758" alt="Captura de tela 2025-09-02 120317" src="https://github.com/user-attachments/assets/f3bc4125-fd5a-4b4a-b9c7-e719c4fab126" />
+<img width="331" height="597" alt="Captura de tela 2025-09-02 120246" src="https://github.com/user-attachments/assets/b7073b8c-040e-4066-a00e-580788205500" />
+
+
+### ex: 10
+
 ### ex: 10a
 Esse código cria uma lista de tarefas (to-do list) interativa com Flet, onde o usuário pode adicionar, marcar como concluída, excluir e gerenciar suas tarefas.
 
